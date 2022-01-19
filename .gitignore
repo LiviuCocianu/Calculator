@@ -10,6 +10,11 @@
 *.userosscache
 *.sln.docstates
 
+cod_proiect_faza_[12].cpp
+CALCULATOR/ecuatii.txt
+CALCULATOR/rezultate.txt
+CALCULATOR/vars.bin
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
